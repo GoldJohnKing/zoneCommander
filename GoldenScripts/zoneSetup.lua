@@ -214,7 +214,7 @@ local zones = {
 		},
 		dispatches = {},
 		criticalObjects = {
-			"critical-object-radio-1",
+			-- "critical-object-radio-1",
 		},
 		connections = {
 			"Charlie",
@@ -276,7 +276,7 @@ local zones = {
 			{ name = "r-supply-port-kobuleti-armor", mission = "supply", targetzone = "Kobuleti", type = "surface" },
 		},
 		criticalObjects = {
-			"critical-object-port-1",
+			-- "critical-object-port-1",
 		},
 		connections = {
 			"Senaki",
@@ -354,7 +354,7 @@ local zones = {
 		},
 		dispatches = {},
 		criticalObjects = {
-			"critical-object-sam-1",
+			-- "critical-object-sam-1",
 		},
 		connections = {
 			"Echo",
@@ -412,7 +412,7 @@ local zones = {
 		},
 		dispatches = {},
 		criticalObjects = {
-			"critical-object-oil-1",
+			-- "critical-object-oil-1",
 		},
 		connections = {
 			"Kutaisi",
